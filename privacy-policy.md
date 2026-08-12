@@ -128,5 +128,3 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 **Email:** routines@ymani.space
 
 ---
-
-*This document is a general template and does not constitute legal advice. Before publishing, consider having it reviewed by a licensed attorney to ensure compliance with applicable laws (e.g., Apple App Store guidelines, CCPA/CPRA, GDPR) based on your specific data practices and target markets.*
