@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy For Liberate Health Sync App
 
 **Effective Date:** August 13, 2026
 
